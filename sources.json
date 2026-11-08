@@ -1,91 +1,57 @@
 {
-  "as_of": "2026-11-08",
+  "updated_at": "2026-11-08",
   "sources": [
-    {
-      "id": "U1",
-      "title": "陈焕律师确认的个人简介及2026年11月修订登记资料",
-      "type": "用户确认",
-      "scope": "创始合伙人、美国办公室创始人、民营企业现代治理专家库专家、白皮书第一作者及现行业务方向",
-      "public_url": null
-    },
-    {
-      "id": "B1",
-      "title": "科思对外事实与素材库（2026年11月核对版本）",
-      "type": "用户提供的律所品牌资料",
-      "scope": "设立时间、联合创始人、业务体系、著作、标准和个人/团队专业积累",
-      "public_url": null
-    },
     {
       "id": "Y1",
       "title": "2025总结｜All in AI的第四年，我们都做了什么？",
-      "type": "本人及团队公开年终总结",
       "published_at": "2026-02-14",
-      "url": "https://mp.weixin.qq.com/s/-1XJmTmQAn0VOcP51Y4SVg",
-      "scope": "2025年度项目类型、研究成果、授课及内容建设；历史团队成果"
+      "url": "https://mp.weixin.qq.com/s/-1XJmTmQAn0VOcP51Y4SVg"
     },
     {
       "id": "W1",
       "title": "科思律师事务所官网",
-      "type": "律所公开介绍",
-      "checked_at": "2026-11-08",
-      "url": "https://kesilaw.com/",
-      "scope": "官网现载人物资料、公开服务方向及机构邮箱"
+      "url": "https://kesilaw.com/"
     },
     {
       "id": "A1",
       "title": "广州国际商贸商事调解中心关于联合主办数据产权与合规专题培训（第五期）的通知",
-      "type": "广州市律师协会公开通知",
       "published_at": "2026-06-22",
-      "url": "https://www.gzlawyer.org/info/4abbe76e472d444db00bf373855a8479",
-      "scope": "陈焕的协会专业身份、AI合规圈主理人身份及授课安排"
+      "url": "https://www.gzlawyer.org/info/4abbe76e472d444db00bf373855a8479"
     },
     {
       "id": "P1",
       "title": "法律出版社旗舰店：《法律人必备AI核心技能：DeepSeek零基础入门到精通》",
-      "type": "出版方图书介绍",
-      "url": "https://detail.youzan.com/show/goods?alias=3nsvbacuan0kt8q&from_source=gbox_seo",
-      "scope": "书名、编著者及ISBN"
+      "url": "https://detail.youzan.com/show/goods?alias=3nsvbacuan0kt8q&from_source=gbox_seo"
     },
     {
       "id": "P2",
       "title": "广州图书馆馆藏书目信息：《法律人ChatGPT应用指南》",
-      "type": "公共图书馆书目",
-      "url": "https://opac.gzlib.gov.cn/opac/search?q=%E6%B3%95%E5%BE%8B%E4%BA%BAChatGPT%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97&searchWay=title",
-      "scope": "图书作者、法律出版社及2024年出版口径"
+      "url": "https://opac.gzlib.gov.cn/opac/search?q=%E6%B3%95%E5%BE%8B%E4%BA%BAChatGPT%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97&searchWay=title"
     },
     {
       "id": "S1",
       "title": "中国电子商会：《生成式人工智能数据应用合规指南》正式发布",
-      "type": "标准归口机构公告",
       "published_at": "2024-05-08",
-      "url": "https://www.cecc.org.cn/news-detail/id/21634.html",
-      "scope": "该团体标准发布实施情况；陈焕起草人身份另据本人资料及所持证书记录"
+      "url": "https://www.cecc.org.cn/news-detail/id/21634.html"
     },
     {
       "id": "H1",
       "title": "广州市律师协会2024年度会员奖励决定，穗律协〔2025〕122号",
-      "type": "行业协会奖励决定",
-      "url": "https://static-www.gzlawyer.org/file/upload/20250903/file/20250903181602_ed387849ca9b4f5fb28fed2f121c2622.pdf",
-      "locator": "第1—2页：理论成果奖一等奖第12项",
-      "scope": "《法律人ChatGPT应用指南》专著及陈焕、叶俊希、李伯阳获奖；奖励年度为2024年度，文件年份为2025年"
+      "url": "https://static-www.gzlawyer.org/file/upload/20250903/file/20250903181602_ed387849ca9b4f5fb28fed2f121c2622.pdf"
     },
     {
       "id": "L1",
       "title": "锦天城“DeepSeek时代刑事法律人必备AI核心技能研讨会”圆满举行",
-      "type": "活动主办方报道",
       "published_at": "2025-07-30",
       "event_date": "2025-07-29",
-      "url": "https://www.allbrightlaw.com/SH/CN/10482/fbd649b5c56b523a.aspx",
-      "scope": "上海授课、法律人AI技能及AI合规方法分享"
+      "url": "https://www.allbrightlaw.com/SH/CN/10482/fbd649b5c56b523a.aspx"
     },
     {
       "id": "L2",
       "title": "德和衡（石家庄）律师所成功举办AI辅助律师业务专题培训",
-      "type": "活动主办方报道",
       "published_at": "2024-09-26",
       "event_date": "2024-09-23",
-      "url": "https://www.deheheng.com/zhCN/dynamic/news/2065317320414326790",
-      "scope": "《法律人应用AI的10大场景和业务实操》专题讲座"
+      "url": "https://www.deheheng.com/zhCN/dynamic/news/2065317320414326790"
     }
   ]
 }
