@@ -1262,5 +1262,21 @@
       "organization": "iCourt法律人工智能研究院",
       "role": "兼职高级研究员聘任经历"
     }
-  ]
+  ],
+  "individual_profile": {
+    "page": "陈焕律师.md",
+    "authored_articles_index": "陈焕署名文章.md",
+    "collected_byline_articles": 122,
+    "section_titles": [
+      "从法律实务走向AI与数据业务",
+      "专业方向与实务积累",
+      "著作、白皮书与标准参与",
+      "研究文章与持续写作",
+      "授课、主持与行业交流",
+      "行业建设、专家服务与媒体",
+      "专业身份与资格",
+      "荣誉与专业成果",
+      "科思与工作理念"
+    ]
+  }
 }
