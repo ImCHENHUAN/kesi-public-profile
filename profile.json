@@ -48,7 +48,9 @@
       "李琪瑶"
     ],
     "positioning": "服务新经济与成长型企业的精品律师事务所",
-    "established_year": 2026
+    "established_year": 2026,
+    "license_issued_date": "2026-07-15",
+    "licensing_authority": "广东省司法厅"
   },
   "practice_services": [
     {
@@ -161,6 +163,11 @@
       "source_ids": [
         "Y1"
       ]
+    },
+    {
+      "name": "生成式人工智能产品安全与合规指南",
+      "role": "参与草案编制",
+      "kind": "编制工作"
     }
   ],
   "honors": [
@@ -194,64 +201,923 @@
   ],
   "representative_experience": [
     {
-      "area": "AI产品全生命周期合规",
-      "description": "AI陪伴数字人、AI玩具及医疗AI等项目的合规支持；智能调研分析AI的大模型登记；AI-API、AI情绪评估等项目的咨询或评审。",
-      "attribution": "个人及团队历年经验",
+      "id": "C001",
+      "description": "“跨境某趋势分析产品”数据资产入表合规专项：完成数据资产的合规审查，成为首批依托全球数源中心成功完成数据资产入表的企业。",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据资产化",
       "source_ids": [
-        "Y1"
+        "A072"
       ]
     },
     {
-      "area": "数据交易与个人信息保护",
-      "description": "数据产品上架辅导、公共数据产品评审、个人信息保护影响评估，以及智能终端未成年人个人信息保护审计等工作。",
-      "attribution": "个人及团队历年经验",
+      "id": "C002",
+      "description": "某公安大数据产品数据合规专项 针对某公安研究所的数据合规项目，充分考虑数据产品的特殊性，提出了针对性的合规解决方案，对信息通信网的现状和整体设计情况进行安全规划和建设；通过完善授权和制度文件、建立安全审计机制等，创新性地解决了公安大数据产品在数据合规中的实际问题。",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
       "source_ids": [
-        "Y1"
+        "A072"
       ]
     },
     {
-      "area": "数据资产化",
-      "description": "参与数据产品登记挂牌、数据资产入表与运营合规工作；本人修订简介记载累计参与数据产品上架及合规评审100余项。",
-      "attribution": "个人及团队历年经验",
+      "id": "C003",
+      "description": "公开数据产品”数据资产入表合规专项：审阅爬虫数据的合规性，建立合规框架，帮助数据产品在深圳数据交易所完成合规登记和挂牌。",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
       "source_ids": [
-        "Y1"
+        "A072"
       ]
     },
     {
-      "area": "跨境与智能终端",
-      "description": "出海AI产品法律顾问、智能终端企业涉外合同审查及跨境经营风险支持。",
-      "attribution": "个人及团队历年经验",
+      "id": "C004",
+      "description": "某人工智能产品合规专项 针对某知名AI产品，从产品模型部署、训练、上市到运维的各个产品生命周期，根据相关的监管规定和AI虚拟人陪伴产品属性，确保客户在人工智能项目的每个阶段都能得到及时和专业的合规指导。",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
       "source_ids": [
-        "Y1"
+        "A072"
       ]
     },
     {
-      "area": "企业顾问与争议解决",
-      "description": "AI及数字经济企业常年法律顾问、网络名誉权争议，以及生物制造、医药等行业合同争议。",
-      "attribution": "个人及团队历年经验",
+      "id": "C005",
+      "description": "建筑行业电子档案项目建设专项合规方案",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
       "source_ids": [
-        "Y1"
+        "A072"
+      ]
+    },
+    {
+      "id": "C006",
+      "description": "某医疗公司数据治理和数据入表专项",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "个人信息与数据治理",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C007",
+      "description": "某跨境企业微信小程序合规专项",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C008",
+      "description": "人工智能合同审查顾问",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C009",
+      "description": "法律监督大数据模型开放平台顾问",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C010",
+      "description": "某头部法律科技公司产品项目顾问",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C011",
+      "description": "某生成式人工智能大模型合规咨询项目",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C012",
+      "description": "某骨科人工智能项目专项顾问",
+      "period": "2024",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A072"
+      ]
+    },
+    {
+      "id": "C013",
+      "description": "为某AI陪伴数字人项目提供AI合规专项服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C014",
+      "description": "为某AI玩具提供AI合规专项服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C015",
+      "description": "为某智能调研分析AI提供大模型登记服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C016",
+      "description": "为某AI化妆品类平台提供AI常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C017",
+      "description": "为某出海AI提供AI常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C018",
+      "description": "为某医疗AI提供AI常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C019",
+      "description": "为某GEO公司提供AI合规专项咨询服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C020",
+      "description": "与某AI视频工作流平台达成战略合作框架",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C021",
+      "description": "为某AI-API项目提供AI合规咨询服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C022",
+      "description": "为AI情绪评估项目提供合规评审",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "人工智能与产品",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C023",
+      "description": "为广州数据交易所提供常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C024",
+      "description": "为某头部游戏企业提供常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C025",
+      "description": "为某上市公司提供网络名誉权侵权诉讼服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C026",
+      "description": "为某头部智能终端提供涉外合同审查专项服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C027",
+      "description": "为某智能终端企业提供常年法律顾问服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C028",
+      "description": "为某生物制造企业提供合同纠纷诉讼服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C029",
+      "description": "为某医药企业提供合同纠纷诉讼服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C030",
+      "description": "为某保险产品提供“提供/共同处理/委托处理”模式合规咨询服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "个人信息与数据治理",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C031",
+      "description": "为某保险公司提供PIA服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "个人信息与数据治理",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C032",
+      "description": "为某公路数据产品提供PIA服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C033",
+      "description": "为某国家级数据基础设施提供合规咨询服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C034",
+      "description": "为某智能终端企业提供“未成年人个保审计”专项服务",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "个人信息与数据治理",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C035",
+      "description": "为某物业集团数据合规产品上架辅导×2",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C036",
+      "description": "为某佛山大数据公司提供数据产品上架辅导",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C037",
+      "description": "某停车数据产品产品提供上架辅导×12",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C038",
+      "description": "某广州数据企业提供公共数据产品上架辅导×28",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C039",
+      "description": "为某省级气象类单位提供公共数据产品上架辅导×12",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C040",
+      "description": "为某环保企业提供公共数据上架辅导",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C041",
+      "description": "为某低空企业数据产品提供公共数据上架辅导",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C042",
+      "description": "低空、金融、水务、网络、交通、药品等数据产品合规评审×20+",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "数据产品与公共数据",
+      "source_ids": [
+        "A014"
+      ]
+    },
+    {
+      "id": "C043",
+      "description": "某API聚合平台合规专项",
+      "period": "日期未记载",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "CV1"
+      ]
+    },
+    {
+      "id": "C044",
+      "description": "某token出海平台合规咨询",
+      "period": "日期未记载",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "其他数字经济业务",
+      "source_ids": [
+        "CV1"
+      ]
+    },
+    {
+      "id": "C045",
+      "description": "广州数据交易所2025年度法律顾问服务采购中的数据产权登记业务专项服务：制度文件、登记合规辅导与审核、现场核验、复审辅导答辩、培训、纠纷与合同支持。",
+      "period": "2025",
+      "attribution": "陈焕及团队历年专业经验",
+      "category": "企业顾问与争议解决",
+      "source_ids": [
+        "HIST5"
       ]
     }
   ],
   "lectures": [
     {
-      "date": "2024-09-23",
-      "place": "石家庄",
-      "host": "德和衡（石家庄）律师事务所",
-      "topic": "法律人应用AI的10大场景和业务实操",
-      "source_ids": [
-        "L2"
-      ]
+      "id": "E001",
+      "title": "企业职务犯罪防范与民法典专题培训",
+      "organization": "阳西海滨电力发展有限公司",
+      "date": "2022-06-30",
+      "place": "阳西",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "围绕预防职务犯罪、民法典公民权益等专题开展培训。",
+      "page": "授课与交流/E001.md",
+      "article_id": "A165",
+      "url": "https://mp.weixin.qq.com/s/8_lrpcPI_WYfR0RriwSoBw"
     },
     {
+      "id": "E002",
+      "title": "生成式人工智能的应用与合规要点",
+      "organization": "广东外语外贸大学",
+      "date": "2023-06-27",
+      "place": "线上",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "主讲"
+      },
+      "description": "面向本科生、研究生讲授AI应用、提示词及合规问题，结合立法建议研究开展讨论。",
+      "page": "授课与交流/E002.md",
+      "article_id": "A158",
+      "url": "https://mp.weixin.qq.com/s/8HEyrNiqj9AnBRWIpXYuVg"
+    },
+    {
+      "id": "E003",
+      "title": "生成式人工智能数据应用合规指南第一次专家论证会",
+      "organization": "国家工业信息安全发展研究中心",
+      "date": "2023-11-10",
+      "place": "北京",
+      "kind": "标准与行业建设",
+      "roles": {
+        "陈焕": "起草人、参与论证"
+      },
+      "description": "参与标准草案书面意见及专家论证。",
+      "page": "授课与交流/E003.md"
+    },
+    {
+      "id": "E004",
+      "title": "全国巡讲佛山站",
+      "organization": "佛山盈科",
+      "date": "2024-03",
+      "place": "佛山",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "分享"
+      },
+      "description": "围绕法律人AI应用开展分享。",
+      "page": "授课与交流/E004.md"
+    },
+    {
+      "id": "E005",
+      "title": "法律人AI应用讲座",
+      "organization": "广东省律师协会",
+      "date": "2024-04",
+      "place": "广东",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "分享"
+      },
+      "description": "讲座设置第二现场，开展法律人AI应用交流。",
+      "page": "授课与交流/E005.md"
+    },
+    {
+      "id": "E006",
+      "title": "数据合规与数字检察高质量发展研讨会",
+      "organization": "正义网",
+      "date": "2024-05",
+      "place": "",
+      "kind": "行业交流",
+      "roles": {
+        "陈焕": "参与交流"
+      },
+      "description": "参与数据合规与数字检察主题交流。",
+      "page": "授课与交流/E006.md"
+    },
+    {
+      "id": "E007",
+      "title": "数据与治理思享会",
+      "organization": "清华相关活动及中国电子信息行业联合会",
+      "date": "2024-06",
+      "place": "",
+      "kind": "行业交流",
+      "roles": {
+        "陈焕": "参与交流"
+      },
+      "description": "参与数据与治理主题交流。",
+      "page": "授课与交流/E007.md"
+    },
+    {
+      "id": "E008",
+      "title": "数据资源入表沙龙",
+      "organization": "全球数源中心",
+      "date": "2024-07",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "分享"
+      },
+      "description": "分享数据资源入表相关实务。",
+      "page": "授课与交流/E008.md"
+    },
+    {
+      "id": "E009",
+      "title": "AI应用风险防范和案例分析",
+      "organization": "线上沙龙",
+      "date": "2024-08",
+      "place": "线上",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "分享"
+      },
+      "description": "围绕AI应用风险和案例分析开展分享。",
+      "page": "授课与交流/E009.md"
+    },
+    {
+      "id": "E010",
+      "title": "互联网业务数据跨境合规",
+      "organization": "中国移动互联网",
+      "date": "2024-09",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "分享"
+      },
+      "description": "开展数据跨境合规主题分享。",
+      "page": "授课与交流/E010.md"
+    },
+    {
+      "id": "E011",
+      "title": "数据产品合规研讨会",
+      "organization": "广州数据交易所",
+      "date": "2024-11",
+      "place": "广州",
+      "kind": "行业交流",
+      "roles": {
+        "陈焕": "参与交流"
+      },
+      "description": "参与数据产品合规交流与活动承办。",
+      "page": "授课与交流/E011.md"
+    },
+    {
+      "id": "E012",
+      "title": "法律人应用AI的10大场景和业务实操",
+      "organization": "德和衡（石家庄）律师事务所",
+      "date": "2024-09-23",
+      "place": "石家庄",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "主讲"
+      },
+      "description": "结合AI工具在法律检索、文书与证据等工作中的应用开展实操分享。",
+      "page": "授课与交流/E012.md",
+      "url": "https://www.deheheng.com/zhCN/dynamic/news/2065317320414326790"
+    },
+    {
+      "id": "E013",
+      "title": "AI剧情聊天软件与未成年人保护",
+      "organization": "央视网采访",
+      "date": "2025-01",
+      "place": "媒体采访",
+      "kind": "媒体与公共传播",
+      "roles": {
+        "陈焕": "受访"
+      },
+      "description": "就AI剧情聊天软件、年龄验证、未成年人模式与监护责任等问题接受采访。",
+      "page": "授课与交流/E013.md",
+      "article_id": "A076",
+      "url": "https://mp.weixin.qq.com/s/rjrvyzym3DjpE4iv_uzqjg"
+    },
+    {
+      "id": "E014",
+      "title": "智汇湾区·AI法治先锋论坛",
+      "organization": "广东省人工智能产业协会、三七互娱等",
+      "date": "5月14日",
+      "place": "广州三七互娱总部",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "专题分享"
+      },
+      "description": "围绕AI赋能法律人实操及训练数据、AI侵权与AI出海等实务问题分享。",
+      "page": "授课与交流/E014.md"
+    },
+    {
+      "id": "E015",
+      "title": "AI合规红线：2025年半年度监管观察沙龙2.0",
+      "organization": "雷鸟、AI合规圈",
+      "date": "2025-06-26",
+      "place": "深圳",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "行业观察分享",
+        "李琪瑶": "行业观察分享"
+      },
+      "description": "围绕AI陪伴、AI玩具、智能眼镜、未成年人保护及合规监管开展闭门交流。",
+      "page": "授课与交流/E015.md",
+      "article_id": "A039",
+      "url": "https://mp.weixin.qq.com/s/X30DzJTTZ8wossMDI2HF3w"
+    },
+    {
+      "id": "E016",
+      "title": "DeepSeek时代法律人必备AI核心技能",
+      "organization": "锦天城刑事专业委员会",
       "date": "2025-07-29",
       "place": "上海",
-      "host": "锦天城刑事专业委员会",
-      "topic": "DeepSeek时代法律人必备AI核心技能",
-      "source_ids": [
-        "L1"
-      ]
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "主讲"
+      },
+      "description": "分享AI与刑事办案、模拟法庭、知识库、合同审查及项目管理应用。",
+      "page": "授课与交流/E016.md",
+      "url": "https://www.allbrightlaw.com/SH/CN/10482/fbd649b5c56b523a.aspx"
+    },
+    {
+      "id": "E017",
+      "title": "Web3，律师业务增长的新赛道",
+      "organization": "其他律所专题沙龙",
+      "date": "2025-10-23",
+      "place": "",
+      "kind": "主持与行业交流",
+      "roles": {
+        "陈焕": "主持"
+      },
+      "description": "主持Web3、虚拟资产和区块链法律实务专题沙龙。",
+      "page": "授课与交流/E017.md"
+    },
+    {
+      "id": "E018",
+      "title": "算法模型的合规评估实务",
+      "organization": "香港数据高层次人才研修班；广州数据交易所、一邦国际网上仲调中心",
+      "date": "2025-11-06至2025-11-07",
+      "place": "香港、广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课嘉宾"
+      },
+      "description": "研修班跨两地开展；分享处罚新规、算法备案、PIA及合规评估方法。",
+      "page": "授课与交流/E018.md"
+    },
+    {
+      "id": "E019",
+      "title": "人工智能与新兴科技的法律监管",
+      "organization": "ALB粤港澳大湾区法律论坛",
+      "date": "2025-12-04",
+      "place": "深圳",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "主题分享",
+        "李琪瑶": "出席交流"
+      },
+      "description": "围绕AI监管框架、企业数据治理、知识产权及责任问题交流。",
+      "page": "授课与交流/E019.md"
+    },
+    {
+      "id": "E020",
+      "title": "AI合规与数据合规实务",
+      "organization": "新疆律师协会信息技术专业委员会",
+      "date": "日期未详列",
+      "place": "乌鲁木齐",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "主讲及交流"
+      },
+      "description": "在新疆律协授课，并赴德恒乌鲁木齐开展AI及数据合规实务交流。",
+      "page": "授课与交流/E020.md"
+    },
+    {
+      "id": "E021",
+      "title": "法律人应用AI的10大场景",
+      "organization": "大成深圳第五期“攀登计划”高伙恳谈会",
+      "date": "日期未详列",
+      "place": "深圳",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "专题分享"
+      },
+      "description": "分享AI在检索、PPT、录音视频举证、会议纪要、合同审查及项目资料整理中的应用。",
+      "page": "授课与交流/E021.md"
+    },
+    {
+      "id": "E022",
+      "title": "GPT类人工智能的应用与合规要点",
+      "organization": "全国工会网上工作培训班",
+      "date": "日期未详列",
+      "place": "广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "结合工会与法律工作中的报告、检索、代码等场景介绍生成式AI应用。",
+      "page": "授课与交流/E022.md"
+    },
+    {
+      "id": "E023",
+      "title": "Claude Code法务总课程",
+      "organization": "三七互娱",
+      "date": "2026",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "心法、选型、方法、实操与闭环；合同审查项目、版本管控、经验沉淀与Skills。",
+      "page": "授课与交流/E023.md"
+    },
+    {
+      "id": "E024",
+      "title": "AI智能体与法律合规效能提升工作坊",
+      "organization": "广州数据交易所",
+      "date": "日期未详列",
+      "place": "广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "法规检索智能体与合同审查助手等实操。",
+      "page": "授课与交流/E024.md"
+    },
+    {
+      "id": "E025",
+      "title": "AI合规与数据合规实务",
+      "organization": "国家呼吸中心",
+      "date": "日期未详列",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI与数据合规专题培训。",
+      "page": "授课与交流/E025.md"
+    },
+    {
+      "id": "E026",
+      "title": "企业内训",
+      "organization": "货拉拉",
+      "date": "日期未详列",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "法律与AI相关企业内训经历。",
+      "page": "授课与交流/E026.md"
+    },
+    {
+      "id": "E027",
+      "title": "企业内训",
+      "organization": "中旅集团",
+      "date": "日期未详列",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "法律与AI相关企业内训经历。",
+      "page": "授课与交流/E027.md"
+    },
+    {
+      "id": "E028",
+      "title": "AI产品全生命周期",
+      "organization": "深圳市律师协会",
+      "date": "日期未详列",
+      "place": "深圳",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI产品不同阶段的合规实务。",
+      "page": "授课与交流/E028.md"
+    },
+    {
+      "id": "E029",
+      "title": "AI幻觉专题",
+      "organization": "东莞司法局",
+      "date": "日期未详列",
+      "place": "东莞",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI生成内容风险与应用相关主题。",
+      "page": "授课与交流/E029.md"
+    },
+    {
+      "id": "E030",
+      "title": "法律与AI专题交流",
+      "organization": "南山司法局",
+      "date": "日期未详列",
+      "place": "深圳",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI与法律实务培训交流经历。",
+      "page": "授课与交流/E030.md"
+    },
+    {
+      "id": "E031",
+      "title": "法律与AI专题交流",
+      "organization": "海珠政法委",
+      "date": "日期未详列",
+      "place": "广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI与法律实务培训交流经历。",
+      "page": "授课与交流/E031.md"
+    },
+    {
+      "id": "E032",
+      "title": "AI时代的数据价值与合规",
+      "organization": "广州数据交易所年会",
+      "date": "日期未详列",
+      "place": "广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "数据价值与合规主题分享。",
+      "page": "授课与交流/E032.md"
+    },
+    {
+      "id": "E033",
+      "title": "AI时代，一切都是上下文",
+      "organization": "广州数据交易所论坛",
+      "date": "日期未详列",
+      "place": "广州",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI与法律服务工作方法分享。",
+      "page": "授课与交流/E033.md"
+    },
+    {
+      "id": "E034",
+      "title": "未来3年AI不是可选题",
+      "organization": "新则线下课",
+      "date": "日期未详列",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI应用与法律工作发展相关主题。",
+      "page": "授课与交流/E034.md"
+    },
+    {
+      "id": "E035",
+      "title": "AI时代律所的品牌建设与团队管理",
+      "organization": "建纬",
+      "date": "日期未详列",
+      "place": "",
+      "kind": "授课与分享",
+      "roles": {
+        "陈焕": "授课"
+      },
+      "description": "AI背景下的律所品牌和团队管理。",
+      "page": "授课与交流/E035.md"
     }
   ],
   "public_contact": {
@@ -268,7 +1134,16 @@
     "著作与标准.md",
     "代表经验与授课.md",
     "相关资料.md",
-    "李琪瑶律师.md"
+    "李琪瑶律师.md",
+    "资料总览.md",
+    "文章与研究/README.md",
+    "研究主题地图.md",
+    "项目与实务经验.md",
+    "授课与交流.md",
+    "行业建设与专业服务.md",
+    "职业经历与专业资格.md",
+    "律所理念与服务方式.md",
+    "AI全生命周期服务清单.md"
   ],
   "appointments": [
     {
@@ -281,13 +1156,6 @@
     {
       "organization": "广东省民营企业现代治理专家库",
       "role": "专家"
-    },
-    {
-      "organization": "中国电子信息行业联合会数据与治理专业委员会",
-      "role": "执行委员经历",
-      "source_ids": [
-        "W1"
-      ]
     },
     {
       "organization": "广东财经大学法学院人工智能法研究中心",
@@ -309,6 +1177,12 @@
       "source_ids": [
         "W1"
       ]
+    },
+    {
+      "organization": "广州市法学会数字法学研究会",
+      "role": "常务理事",
+      "term_start": "2025-08-17",
+      "term_end": "2030-08-17"
     }
   ],
   "education": {
@@ -371,5 +1245,22 @@
         "Y1"
       ]
     }
-  }
+  },
+  "knowledge_index": "knowledge.json",
+  "full_materials_entry": "资料总览.md",
+  "professional_qualifications": [
+    {
+      "name": "个人信息保护合规审计人员能力评价证书",
+      "level": "中级"
+    },
+    {
+      "organization": "深圳数据交易所",
+      "name": "DEXCA",
+      "period": "2024年度资料记载"
+    },
+    {
+      "organization": "iCourt法律人工智能研究院",
+      "role": "兼职高级研究员聘任经历"
+    }
+  ]
 }
