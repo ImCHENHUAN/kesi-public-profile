@@ -63,5 +63,381 @@
       "url": null,
       "provenance": "用户确认资料；截至2026-11-08整理"
     }
-  }
+  },
+  "firm_profile": {
+    "name": "广东科思律师事务所",
+    "english_name": "KESI LAW FIRM",
+    "established_date": "2026-07-09",
+    "established_location": "深圳前海",
+    "founders": [
+      "陈焕",
+      "李琪瑶"
+    ],
+    "positioning": "服务新经济与成长型企业的精品律师事务所",
+    "source_ids": [
+      "B1"
+    ]
+  },
+  "practice_services": [
+    {
+      "area": "人工智能与大模型",
+      "description": "AI项目合规规划、训练数据与开源协议审查、算法备案及大模型登记支持、产品上线审查、用户协议和隐私政策、全生命周期合规与相关争议。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "数据合规与资产化",
+      "description": "数据合规制度建设、数据产品登记与上架辅导、交易合规评审、数据资产入表支持、公共数据与网络数据合规、个人信息保护影响评估及审计。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "跨境出海与国际业务",
+      "description": "AI产品出海、数据跨境、目标市场规则研究、涉外合同、国际贸易与跨境项目协调。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "知识产权",
+      "description": "AI生成内容权属与侵权风险、软件及技术成果保护、商标与著作权、商业秘密及相关争议。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "合同与常年法律顾问",
+      "description": "SaaS、API、云服务、技术开发和数据供应合同，标准合同体系、日常咨询、谈判及重大交易支持。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "股权投融资与并购",
+      "description": "股权架构、员工激励、法律尽职调查、投融资交易文件、并购交割与投后治理。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "企业治理与风险防范",
+      "description": "公司治理与授权机制、内部管理制度、劳动用工、商业合作、经营风险识别与应对。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "争议解决与刑事业务",
+      "description": "合同、股权、知识产权等民商事争议，诉讼仲裁、保全执行，企业刑事风险及刑民交叉问题。",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "area": "培训与能力建设",
+      "description": "管理层与业务团队的AI、数据和经营风险培训，法律人AI工具应用、合规制度宣贯及工作坊。",
+      "source_ids": [
+        "B1"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "法律人ChatGPT应用指南",
+      "kind": "图书",
+      "role": "第一作者",
+      "publisher": "法律出版社",
+      "year": 2024,
+      "source_ids": [
+        "U1",
+        "B1",
+        "P2"
+      ],
+      "note": "官网旧版出现2023年口径，本次采用馆藏书目和较新事实库的2024年口径，不补造具体月份。"
+    },
+    {
+      "name": "法律人必备AI核心技能——DeepSeek零基础入门到精通",
+      "kind": "图书",
+      "role": "第一作者；与戴奎、李勇等编著",
+      "publisher": "法律出版社",
+      "year": 2025,
+      "isbn": "978-7-5244-0125-4",
+      "source_ids": [
+        "U1",
+        "B1",
+        "P1"
+      ]
+    },
+    {
+      "name": "低空经济破局之道——法律合规及商业化路径",
+      "kind": "图书",
+      "role": "参编",
+      "year": 2025,
+      "source_ids": [
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "name": "AI应用场景指南",
+      "kind": "腾讯白皮书",
+      "role": "第一作者",
+      "publication_date": null,
+      "source_ids": [
+        "U1"
+      ],
+      "note": "发布日期与正式发布链接待补；不计入已出版图书数量。"
+    }
+  ],
+  "standards_participation": [
+    {
+      "name": "生成式人工智能数据应用合规指南",
+      "number": "T/CECC 027-2024",
+      "role": "起草人",
+      "year": 2024,
+      "source_ids": [
+        "B1",
+        "S1"
+      ]
+    },
+    {
+      "name": "数据基础设施 数据合规服务指南",
+      "number": "T/NSSQ 074-2024",
+      "role": "参与起草",
+      "year": 2024,
+      "source_ids": [
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "name": "工业和信息化合规人才能力要求",
+      "number": "SJCPZT2559-2025",
+      "role": "参与起草",
+      "year": 2025,
+      "status": "历史总结记载为公示中；本次未核实最终发布状态",
+      "source_ids": [
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "name": "低空智能网联数据共享合规指南",
+      "role": "参与起草",
+      "year": 2025,
+      "status": "依据历史总结和个人资料记载，最终编号待补",
+      "source_ids": [
+        "B1",
+        "Y1"
+      ]
+    }
+  ],
+  "honors": [
+    {
+      "name": "第四届琶洲算法大赛数据合规方案制定赛一等奖、第一名",
+      "year": 2025,
+      "attribution": "陈焕参与的原所时期参赛团队",
+      "source_ids": [
+        "B1",
+        "Y1",
+        "W1"
+      ]
+    },
+    {
+      "name": "广州市律师协会2024年度理论成果奖一等奖",
+      "work": "法律人ChatGPT应用指南",
+      "award_year": 2024,
+      "decision_document_year": 2025,
+      "attribution": "陈焕、叶俊希、李伯阳",
+      "source_ids": [
+        "H1"
+      ]
+    },
+    {
+      "name": "首届广东律师法律服务产品大赛二等奖",
+      "year": 2024,
+      "attribution": "团队获奖，不表述为个人独立获奖或科思机构获奖",
+      "source_ids": [
+        "B1",
+        "W1"
+      ]
+    }
+  ],
+  "representative_experience": [
+    {
+      "area": "AI产品全生命周期合规",
+      "description": "AI陪伴数字人、AI玩具及医疗AI等项目的合规支持；智能调研分析AI的大模型登记；AI-API、AI情绪评估等项目的咨询或评审。",
+      "attribution": "个人及团队历年经验",
+      "source_ids": [
+        "U1",
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "area": "数据交易与个人信息保护",
+      "description": "数据产品上架辅导、公共数据产品评审、个人信息保护影响评估，以及智能终端未成年人个人信息保护审计等工作。",
+      "attribution": "个人及团队历年经验",
+      "source_ids": [
+        "U1",
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "area": "数据资产化",
+      "description": "参与数据产品登记挂牌、数据资产入表与运营合规工作；本人修订简介记载累计参与数据产品上架及合规评审100余项。",
+      "attribution": "个人及团队历年经验",
+      "source_ids": [
+        "U1",
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "area": "跨境与智能终端",
+      "description": "出海AI产品法律顾问、智能终端企业涉外合同审查及跨境经营风险支持。",
+      "attribution": "个人及团队历年经验",
+      "source_ids": [
+        "U1",
+        "B1",
+        "Y1"
+      ]
+    },
+    {
+      "area": "企业顾问与争议解决",
+      "description": "AI及数字经济企业常年法律顾问、网络名誉权争议，以及生物制造、医药等行业合同争议。",
+      "attribution": "个人及团队历年经验",
+      "source_ids": [
+        "U1",
+        "B1",
+        "Y1"
+      ]
+    }
+  ],
+  "lectures": [
+    {
+      "date": "2024-09-23",
+      "place": "石家庄",
+      "host": "德和衡（石家庄）律师事务所",
+      "topic": "法律人应用AI的10大场景和业务实操",
+      "source_ids": [
+        "L2"
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "place": "上海",
+      "host": "锦天城刑事专业委员会",
+      "topic": "DeepSeek时代法律人必备AI核心技能",
+      "source_ids": [
+        "L1"
+      ]
+    }
+  ],
+  "public_contact": {
+    "website": "https://kesilaw.com/",
+    "institutional_email": "contact@kesilawfirm.com",
+    "source_ids": [
+      "W1"
+    ]
+  },
+  "sources_file": "sources.json",
+  "reading_pages": [
+    "README.md",
+    "陈焕律师.md",
+    "科思律师事务所.md",
+    "著作与标准.md",
+    "代表经验与授课.md",
+    "依据与更新说明.md"
+  ],
+  "appointments": [
+    {
+      "organization": "广东省人工智能产业协会",
+      "role": "法律专业委员会主任",
+      "source_ids": [
+        "U1",
+        "A1"
+      ]
+    },
+    {
+      "organization": "广东省民营企业现代治理专家库",
+      "role": "专家",
+      "source_ids": [
+        "U1"
+      ]
+    },
+    {
+      "organization": "中国电子信息行业联合会数据与治理专业委员会",
+      "role": "执行委员",
+      "source_ids": [
+        "B1",
+        "W1"
+      ]
+    },
+    {
+      "organization": "广东财经大学法学院人工智能法研究中心",
+      "role": "兼职研究员",
+      "source_ids": [
+        "B1",
+        "W1"
+      ]
+    },
+    {
+      "organization": "广州数据交易所",
+      "role": "入库数据合规辅导师、合规评审师",
+      "source_ids": [
+        "B1",
+        "W1"
+      ]
+    },
+    {
+      "organization": "汕头市市场监督管理局（知识产权局）",
+      "role": "知识产权专家库专家",
+      "source_ids": [
+        "B1",
+        "W1"
+      ]
+    }
+  ],
+  "education": {
+    "study_institutions": [
+      "中国政法大学",
+      "广东外语外贸大学"
+    ],
+    "source_ids": [
+      "W1"
+    ],
+    "scope": "官网载明的学习经历；未据此推断未注明的学位"
+  },
+  "speaking_directions": [
+    {
+      "topic": "AI项目法律避坑指南：管好人钱事",
+      "source_ids": [
+        "U1"
+      ]
+    },
+    {
+      "topic": "AI项目上线、训练数据与开源模型法律风险",
+      "source_ids": [
+        "B1",
+        "L1"
+      ]
+    },
+    {
+      "topic": "数据产品、数据资产化与跨境数据实务",
+      "source_ids": [
+        "B1"
+      ]
+    },
+    {
+      "topic": "法律人AI工具、知识库与智能体应用",
+      "source_ids": [
+        "L1",
+        "L2"
+      ]
+    }
+  ]
 }
