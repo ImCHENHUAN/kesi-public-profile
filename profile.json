@@ -267,7 +267,8 @@
     "科思律师事务所.md",
     "著作与标准.md",
     "代表经验与授课.md",
-    "相关资料.md"
+    "相关资料.md",
+    "李琪瑶律师.md"
   ],
   "appointments": [
     {
@@ -338,6 +339,18 @@
         "L1",
         "L2"
       ]
+    }
+  ],
+  "team_profiles": [
+    {
+      "name": "陈焕",
+      "page": "陈焕律师.md",
+      "structured_profile": "profile.json"
+    },
+    {
+      "name": "李琪瑶",
+      "page": "李琪瑶律师.md",
+      "structured_profile": "li-qiyao.json"
     }
   ]
 }

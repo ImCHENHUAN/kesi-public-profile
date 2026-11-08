@@ -1,0 +1,202 @@
+{
+  "as_of": "2026-11-08",
+  "name": "李琪瑶",
+  "firm": "广东科思律师事务所",
+  "position": [
+    "主任",
+    "联合创始人"
+  ],
+  "education": {
+    "institution": "华南理工大学",
+    "degree": "法律硕士",
+    "source_ids": [
+      "W1"
+    ]
+  },
+  "biography": "李琪瑶律师，广东科思律师事务所主任、联合创始人，华南理工大学法律硕士，《法律人必备AI核心技能——DeepSeek零基础入门到精通》编者，广州数据交易所入库数据合规辅导师。具有上市公司法务及知识产权代理机构工作经验，长期专注人工智能与数据合规、知识产权保护、企业法律事务及民商事争议解决，参与AI产品、数据交易、智能终端和数据资产化相关项目。",
+  "previous_experience": [
+    "上市公司法务",
+    "知识产权代理机构"
+  ],
+  "professional_roles": [
+    {
+      "organization": "广东省人工智能产业协会",
+      "role": "理事",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "organization": "广州数据交易所",
+      "role": "入库数据合规辅导师",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "qualification": "个人信息保护合规审计中级人员",
+      "source_ids": [
+        "W1"
+      ]
+    }
+  ],
+  "practice_areas": [
+    {
+      "area": "人工智能与智能终端合规",
+      "description": "围绕AI产品、智能设备及相关业务提供专项法律支持，参与产品合规、人工智能项目合规及企业法律事务。",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "area": "数据合规与数据资产化",
+      "description": "参与数据交易、数据资源入表、企业画像和个人信息保护等专项，协助处理数据使用、业务流程与合规要求之间的问题。",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "area": "知识产权与不正当竞争",
+      "description": "处理知识产权诉讼及非诉业务，业务经验涉及品牌维权、软件与信息技术、爬虫数据和不正当竞争争议。",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "area": "企业法律顾问",
+      "description": "结合企业法务及知识产权代理机构工作经验，为企业日常经营、商业合作及法律事务提供支持。",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "area": "民商事争议解决",
+      "description": "参与知识产权、合同及其他民商事争议的处理，并提供企业相关诉讼代理服务。",
+      "source_ids": [
+        "W1"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "法律人必备AI核心技能——DeepSeek零基础入门到精通",
+      "role": "编者",
+      "publisher": "法律出版社",
+      "year": 2025,
+      "isbn": "978-7-5244-0125-4",
+      "source_ids": [
+        "W1",
+        "P1"
+      ]
+    }
+  ],
+  "representative_matters": [
+    {
+      "name": "邓白氏码冒用系列案",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "QSV解析软件不正当竞争案",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "某微信小程序爬虫侵权案",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "多起知名国际文旅品牌维权案",
+      "source_ids": [
+        "W1"
+      ]
+    }
+  ],
+  "selected_projects": [
+    {
+      "name": "基于数字经济公共基础设施的供应链数据资源入表专项",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "某公安研究所个人信息保护数据合规专项",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "某企业画像数据合规专项",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "某跨境旅游行业小程序合规专项",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "某智能设备制造业人工智能合规专项",
+      "source_ids": [
+        "W1"
+      ]
+    }
+  ],
+  "past_client_experience": {
+    "names": [
+      "腾讯",
+      "广汽",
+      "京信通信",
+      "索尼",
+      "丰田"
+    ],
+    "source_ids": [
+      "W1"
+    ]
+  },
+  "honors": [
+    {
+      "name": "第四届琶洲算法大赛“湾区杯”数据合规方案制定赛一等奖",
+      "year": 2025,
+      "attribution": "李琪瑶参与的隆安广州队",
+      "source_ids": [
+        "W1",
+        "LQ1"
+      ]
+    },
+    {
+      "name": "广州市律师协会业务成果奖",
+      "award_year": 2024,
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "首届广东律师法律服务产品大赛二等奖",
+      "year": 2024,
+      "attribution": "团队获奖",
+      "source_ids": [
+        "W1"
+      ]
+    },
+    {
+      "name": "广州市律师协会业务成果三等奖",
+      "award_year": 2023,
+      "source_ids": [
+        "W1"
+      ]
+    }
+  ],
+  "public_contact": {
+    "website": "https://kesilaw.com/",
+    "institutional_email": "contact@kesilawfirm.com"
+  },
+  "reading_page": "李琪瑶律师.md",
+  "sources_file": "sources.json"
+}
