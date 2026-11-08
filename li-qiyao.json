@@ -20,13 +20,6 @@
   ],
   "professional_roles": [
     {
-      "organization": "广东省人工智能产业协会",
-      "role": "理事",
-      "source_ids": [
-        "W1"
-      ]
-    },
-    {
       "organization": "广州数据交易所",
       "role": "入库数据合规辅导师",
       "source_ids": [
@@ -34,10 +27,7 @@
       ]
     },
     {
-      "qualification": "个人信息保护合规审计中级人员",
-      "source_ids": [
-        "W1"
-      ]
+      "qualification": "个人信息保护合规审计人员能力评价证书（中级）"
     }
   ],
   "practice_areas": [
@@ -118,53 +108,17 @@
   ],
   "selected_projects": [
     {
-      "name": "基于数字经济公共基础设施的供应链数据资源入表专项",
+      "name": "跨境某分析产品数据资产入表合规专项法律服务",
       "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "某公安研究所个人信息保护数据合规专项",
-      "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "某企业画像数据合规专项",
-      "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "某跨境旅游行业小程序合规专项",
-      "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "某智能设备制造业人工智能合规专项",
-      "source_ids": [
-        "W1"
+        "H1"
       ]
     }
   ],
-  "past_client_experience": {
-    "names": [
-      "腾讯",
-      "广汽",
-      "京信通信",
-      "索尼",
-      "丰田"
-    ],
-    "source_ids": [
-      "W1"
-    ]
-  },
   "honors": [
     {
       "name": "第四届琶洲算法大赛“湾区杯”数据合规方案制定赛一等奖",
       "year": 2025,
-      "attribution": "李琪瑶参与的隆安广州队",
+      "attribution": "李琪瑶在其他律所任职期间参与的团队",
       "source_ids": [
         "W1",
         "LQ1"
@@ -174,28 +128,13 @@
       "name": "广州市律师协会业务成果奖",
       "award_year": 2024,
       "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "首届广东律师法律服务产品大赛二等奖",
-      "year": 2024,
-      "attribution": "团队获奖",
-      "source_ids": [
-        "W1"
-      ]
-    },
-    {
-      "name": "广州市律师协会业务成果三等奖",
-      "award_year": 2023,
-      "source_ids": [
-        "W1"
-      ]
+        "H1"
+      ],
+      "work": "跨境某分析产品数据资产入表合规专项法律服务"
     }
   ],
   "public_contact": {
-    "website": "https://kesilaw.com/",
-    "institutional_email": "contact@kesilawfirm.com"
+    "website": "https://kesilaw.com/"
   },
   "reading_page": "李琪瑶律师.md",
   "sources_file": "sources.json"

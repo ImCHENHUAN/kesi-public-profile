@@ -42,13 +42,13 @@
   "firm_profile": {
     "name": "广东科思律师事务所",
     "english_name": "KESI LAW FIRM",
-    "established_date": "2026-07-09",
     "established_location": "深圳前海",
     "founders": [
       "陈焕",
       "李琪瑶"
     ],
-    "positioning": "服务新经济与成长型企业的精品律师事务所"
+    "positioning": "服务新经济与成长型企业的精品律师事务所",
+    "established_year": 2026
   },
   "practice_services": [
     {
@@ -146,12 +146,13 @@
     },
     {
       "name": "工业和信息化合规人才能力要求",
-      "number": "SJCPZT2559-2025",
       "role": "参与起草工作",
       "year": 2025,
       "source_ids": [
         "Y1"
-      ]
+      ],
+      "project_number": "SJCPZT2559-2025",
+      "kind": "标准制修订项目"
     },
     {
       "name": "低空智能网联数据共享合规指南",
@@ -166,7 +167,7 @@
     {
       "name": "第四届琶洲算法大赛数据合规方案制定赛一等奖、第一名",
       "year": 2025,
-      "attribution": "陈焕所在的隆安广州队",
+      "attribution": "陈焕在其他律所任职期间参与的团队",
       "source_ids": [
         "Y1",
         "W1"
@@ -177,7 +178,7 @@
       "work": "法律人ChatGPT应用指南",
       "award_year": 2024,
       "decision_document_year": 2025,
-      "attribution": "陈焕、叶俊希、李伯阳",
+      "attribution": "陈焕参与的专著成果",
       "source_ids": [
         "H1"
       ]
@@ -255,7 +256,6 @@
   ],
   "public_contact": {
     "website": "https://kesilaw.com/",
-    "institutional_email": "contact@kesilawfirm.com",
     "source_ids": [
       "W1"
     ]
@@ -284,7 +284,7 @@
     },
     {
       "organization": "中国电子信息行业联合会数据与治理专业委员会",
-      "role": "执行委员",
+      "role": "执行委员经历",
       "source_ids": [
         "W1"
       ]
