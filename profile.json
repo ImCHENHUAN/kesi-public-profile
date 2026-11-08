@@ -352,5 +352,24 @@
       "page": "李琪瑶律师.md",
       "structured_profile": "li-qiyao.json"
     }
-  ]
+  ],
+  "teaching_experience": {
+    "person": "陈焕",
+    "cumulative_description": "累计开展数百场授课与专题分享",
+    "as_of": "2026-11-08",
+    "topics": [
+      "法律人AI应用",
+      "人工智能合规",
+      "数据合规",
+      "企业法律实务"
+    ],
+    "listed_lectures_scope": "部分代表性活动",
+    "annual_2025": {
+      "attribution": "陈焕及团队",
+      "description": "50余场分享，覆盖近20座城市",
+      "source_ids": [
+        "Y1"
+      ]
+    }
+  }
 }
